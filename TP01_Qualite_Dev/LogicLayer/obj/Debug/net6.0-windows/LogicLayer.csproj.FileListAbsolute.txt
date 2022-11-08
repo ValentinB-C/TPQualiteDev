@@ -1,0 +1,12 @@
+C:\Users\vb353588\Desktop\TP01_Qualite_Dev\LogicLayer\bin\Debug\net6.0-windows\LogicLayer.deps.json
+C:\Users\vb353588\Desktop\TP01_Qualite_Dev\LogicLayer\bin\Debug\net6.0-windows\LogicLayer.dll
+C:\Users\vb353588\Desktop\TP01_Qualite_Dev\LogicLayer\bin\Debug\net6.0-windows\LogicLayer.pdb
+C:\Users\vb353588\Desktop\TP01_Qualite_Dev\LogicLayer\obj\Debug\net6.0-windows\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\vb353588\Desktop\TP01_Qualite_Dev\LogicLayer\obj\Debug\net6.0-windows\LogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vb353588\Desktop\TP01_Qualite_Dev\LogicLayer\obj\Debug\net6.0-windows\LogicLayer.AssemblyInfoInputs.cache
+C:\Users\vb353588\Desktop\TP01_Qualite_Dev\LogicLayer\obj\Debug\net6.0-windows\LogicLayer.AssemblyInfo.cs
+C:\Users\vb353588\Desktop\TP01_Qualite_Dev\LogicLayer\obj\Debug\net6.0-windows\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\vb353588\Desktop\TP01_Qualite_Dev\LogicLayer\obj\Debug\net6.0-windows\LogicLayer.dll
+C:\Users\vb353588\Desktop\TP01_Qualite_Dev\LogicLayer\obj\Debug\net6.0-windows\refint\LogicLayer.dll
+C:\Users\vb353588\Desktop\TP01_Qualite_Dev\LogicLayer\obj\Debug\net6.0-windows\LogicLayer.pdb
+C:\Users\vb353588\Desktop\TP01_Qualite_Dev\LogicLayer\obj\Debug\net6.0-windows\ref\LogicLayer.dll
